@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item android:id="@+id/increase"
+          android:icon="@drawable/increase"
+          android:title="@string/increase"
+          android:showAsAction="ifRoom"/>
+    <item android:id="@+id/decrease"
+          android:icon="@drawable/decrease"
+          android:title="@string/decrease" 
+           android:showAsAction="ifRoom"/>
+     <item android:id="@+id/colorchange"
+          android:icon="@drawable/colorchange"
+          android:title="@string/colorchange" 
+           android:showAsAction="ifRoom"/>
+    
+</menu>
